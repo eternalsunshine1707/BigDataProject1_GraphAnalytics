@@ -1,6 +1,6 @@
 # <u> CSCI 6444: INTRODUCTION TO BIG DATA &amp; ANALYTICS </u>
 # Project 1: Graph Analytics
-<u> <b> Project Description </b> </u><br>
+<p align="center"><u><b>Project Description</b></u></p>
 The dataset is a graph of links of opinions from the SOC-E website, also known as a trust
 network of the Epinions website. Users could express trust in each other, forming a "web
 of trust" to determine which reviews were shown to each user. This dataset has anonymized names replaced by numbers. It's medium-sized with 10
